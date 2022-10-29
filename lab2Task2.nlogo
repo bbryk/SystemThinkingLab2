@@ -184,10 +184,10 @@ PENS
 "default" 1.0 1 -16777216 true "" "histogram [c] of patches"
 
 SLIDER
-117
-312
-289
-345
+37
+316
+209
+349
 weight-w
 weight-w
 0
@@ -199,10 +199,10 @@ NIL
 HORIZONTAL
 
 CHOOSER
-5
-524
-251
-569
+27
+381
+273
+426
 coloring
 coloring
 "custom-neighborhood-patches" "colour-patches"
@@ -242,10 +242,10 @@ PENS
 "default" 1.0 2 -16777216 true "" "plotxy ticks count patches with [pcolor = black]"
 
 SLIDER
-204
-638
-376
-671
+9
+462
+181
+495
 noise
 noise
 0
@@ -257,10 +257,10 @@ NIL
 HORIZONTAL
 
 BUTTON
-100
-245
-248
-278
+27
+243
+175
+276
 NIL
 go-100-simulation
 NIL

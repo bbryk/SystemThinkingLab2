@@ -167,10 +167,10 @@ PENS
 "default" 1.0 1 -16777216 true "" "histogram [c] of patches"
 
 SLIDER
-723
-417
-895
-450
+14
+244
+186
+277
 weight-w
 weight-w
 0
@@ -182,10 +182,10 @@ NIL
 HORIZONTAL
 
 CHOOSER
-5
-524
-251
-569
+17
+319
+263
+364
 coloring
 coloring
 "custom-neighborhood-patches" "colour-patches"

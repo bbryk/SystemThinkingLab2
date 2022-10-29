@@ -173,10 +173,10 @@ PENS
 "default" 1.0 1 -16777216 true "" "histogram [c] of patches"
 
 SLIDER
-117
-312
-289
-345
+35
+314
+207
+347
 weight-w
 weight-w
 0
@@ -198,10 +198,10 @@ coloring
 1
 
 SLIDER
-342
-508
-514
-541
+335
+368
+507
+401
 threshold
 threshold
 0
@@ -231,10 +231,10 @@ PENS
 "default" 1.0 2 -16777216 true "" "plotxy ticks count patches with [pcolor = black] / count patches"
 
 SLIDER
-204
-638
-376
-671
+345
+469
+517
+502
 noise
 noise
 0
@@ -263,10 +263,10 @@ NIL
 1
 
 SLIDER
-125
-454
-297
-487
+36
+444
+208
+477
 delta__
 delta__
 0
@@ -278,10 +278,10 @@ NIL
 HORIZONTAL
 
 SLIDER
-134
-389
-306
-422
+45
+385
+217
+418
 initial-pop
 initial-pop
 0
